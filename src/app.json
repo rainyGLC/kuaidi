@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/logs/logs",
+    "pages/index/index"
+    
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "京东快递查询",
+    "navigationBarTextStyle":"black"
+  }
+}
